@@ -1,7 +1,7 @@
 # AutoClicker Pro
 
 A lightweight, fast, and minimal autoclicker for **Linux X11** written in Python using **PyQt6**.
-![AutoClicker Pro Screenshot](assets/screenshot.png)
+![AutoClicker Pro Screenshot](assests/screenshot.png)
 
 > **⚠️ This project is Linux-only and is designed specifically for X11.**
 >
