@@ -1,0 +1,10 @@
+{
+    "hotkeys": {
+        "start_stop": "F6"
+    },
+    "default_interval_ms": 100,
+    "minutes": 9,
+    "seconds": 0,
+    "milliseconds": 1,
+    "hotkey": "F6"
+}
